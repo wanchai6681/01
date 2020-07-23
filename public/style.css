@@ -19,7 +19,7 @@
   }
   
   header {
-    background-image:url("photo/211.jpg");
+    background-image:url("img/1.jpg");
     text-align: center;
     font-size: auto;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -27,7 +27,7 @@
     height: 2cm;
   }
   article {
-    background-image: url("photo/211.jpg");
+    background-image: url("img/211.jpg");
     background-image: fixed;
     background-attachment: fixed;
     text-align: center;
@@ -40,7 +40,7 @@
   }   
   
   section{
-    background-image: url("photo/wallpaper-n-40.jpg");
+    background-image: url("img/wallpaper-n-40.jpg");
     background-attachment: fixed;
     border-radius: 10px;
     border-radius: 0cm;
@@ -75,7 +75,7 @@ button{
 }
   
   footer {
-    background-image: url("photo/qw.jpg");
+    background-image: url("img/qw.jpg");
     padding: 10px;
     text-align: center;
     text-decoration-color: ivory;
